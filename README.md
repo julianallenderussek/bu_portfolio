@@ -1,35 +1,34 @@
-# TechHub E-Commerce React Project
-A simple e-commerce project built with React. It features an Home, About and Router components to display a basic electronics e-commerce page, that features product list showing products and their details such as image, title, description, and price.
+# Personal Portfolio Template
 
-# Setup
-Clone the repository.
-Install dependencies with npm install.
-Start the development server with npm start.
+Welcome to the Personal Portfolio Template repository! This template is built using React.js and is designed to help you quickly set up a professional-looking portfolio website to showcase your work, skills, and projects. Whether you're a developer, designer, or any other professional, this template provides a great starting point for creating your online presence.
 
-# Getting Started
+## Table of Contents
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- [Personal Portfolio Template](#personal-portfolio-template)
+  - [Table of Contents](#table-of-contents)
+  - [Features](#features)
+  - [Demo](#demo)
+  - [Installation](#installation)
 
-### `npm start`
+## Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **Responsive Design**: Fully responsive and mobile-friendly.
+- **Modern Technologies**: Built with React.js, CSS3, and JavaScript.
+- **Easy Customization**: Simple and well-documented code for easy customization.
+- **Project Showcase**: Dedicated sections for showcasing projects and skills.
+- **Contact Form**: Functional contact form to receive messages directly to your email.
+- **Smooth Scrolling**: Smooth scrolling effect for a better user experience.
+- **SEO Friendly**: Optimized for search engines.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Demo
 
-### `npm test`
+You can view a live demo of the template [here](#).
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Installation
 
-### `npm run build`
+To get started with this template, you can clone the repository and install the dependencies.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
+```bash
+git clone https://github.com/yourusername/personal-portfolio-template.git
+cd personal-portfolio-template
+npm install
