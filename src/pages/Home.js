@@ -8,7 +8,7 @@ const Home = () => {
   <div>
     <Header/>    
     <Hero/>
-    <h1>{REACT_APP_API_URL}</h1>
+    <h1>{process.env.REACT_APP_API_URL}</h1>
     <Footer/>
   </div>);
 };
