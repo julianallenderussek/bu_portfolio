@@ -6,33 +6,33 @@ import Footer from '../components/Footer';
 const videos = [
   {
     id: 1,
-    title: 'Video 1 Title',
-    videoId: 'abc123', // Replace with your YouTube video ID
-    caption: 'Brief description of what the video is about. Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+    title: 'React in 100 Seconds',
+    videoId: 'Tn6-PIqc4UM?si=m6m4NyB_tu2L8ZY3', 
+    caption: 'React is a little JavaScript library with a big influence over the webdev world. Learn the basics of React in 100 Seconds.',
   },
   {
     id: 2,
-    title: 'Video 2 Title',
-    videoId: 'def456', // Replace with your YouTube video ID
-    caption: 'Brief description of what the video is about. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+    title: 'Apple Intelligence is dumb',
+    videoId: 'ek2yOqAIYuU?si=CkB3gAS8JsZW60-W', // Replace with your YouTube video ID
+    caption: "Apple announced it\'s first major AI feature \"Apple Intelligence, which brings a suite of new tools to the iPhone and Mac. Apple has it\'s own foundation models, but will also rely on OpenAI in the cloud for certain AI jobs.",
   },
   {
     id: 3,
-    title: 'Video 3 Title',
-    videoId: 'ghi789', // Replace with your YouTube video ID
-    caption: 'Brief description of what the video is about. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
+    title: 'Best OS for programming? Mac vs Windows vs Linux debate settled',
+    videoId: 'AdygBbbEnco?si=aY9zGwxGwIk7TQ4j', // Replace with your YouTube video ID
+    caption: 'What is the best operating system for programming? Learn the pros and cons of MacOS, Windows, and Linux from the perspective of a programmer.',
   },
   {
     id: 4,
-    title: 'Video 2 Title',
-    videoId: 'def456', // Replace with your YouTube video ID
-    caption: 'Brief description of what the video is about. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+    title: 'Is Linux Mint BETTER Than Windows?',
+    videoId: '499jqHWZ-Ts?si=tAN1wcZpeBbgOMKi', // Replace with your YouTube video ID
+    caption: 'Is Linux Mint the best operating system you\'re not using?.',
   },
   {
     id: 5,
-    title: 'Video 3 Title',
-    videoId: 'ghi789', // Replace with your YouTube video ID
-    caption: 'Brief description of what the video is about. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
+    title: 'The Linux Experience',
+    videoId: '8WkcLwXCFJQ?si=xnFk_53u06AewZgL', // Replace with your YouTube video ID
+    caption: 'Discover why Linux is a great operating system for you.',
   },
 ];
 
@@ -40,7 +40,7 @@ const Videos = () => {
   return (
     <>
       <Header/>
-      <h1 className="project-title">My Youtube Videos</h1>
+      <h1 className="project-title">My Favorite Youtube Videos</h1>
       <div className="my-videos-page">
         <div className="videos-container">
           {videos.map((video) => (
