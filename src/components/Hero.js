@@ -1,5 +1,6 @@
 import React from 'react';
 import './Hero.css';
+import { Link } from 'react-router-dom';
 
 const Hero = () => {
   return (
@@ -10,7 +11,9 @@ const Hero = () => {
         <p>Coding enthusiast and problem solver, I transform innovative ideas into seamless digital experiences. With a passion for clean and efficient code, I turn my client's concepts into user-friendly applications. Join me on a journey through my projects, where creativity meets functionality.
         <br></br>
         <strong>Let's shape the future of technology together.</strong></p>
-        <button>Get Started</button>
+        <Link to="/contact">
+          <button>Contact Me</button>
+        </Link>
       </div>
     </div>
   );

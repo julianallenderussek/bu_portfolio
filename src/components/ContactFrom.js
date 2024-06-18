@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import './ContactForm.css';
+import axios from 'axios';
 
 const ContactForm = () => {
   const [formData, setFormData] = useState({
@@ -18,8 +19,38 @@ const ContactForm = () => {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    // Implement email sending functionality here
     alert(`Message sent from ${formData.name}`);
+    e.preventDefault();
+    let data = JSON.stringify({
+      "email": formData.email,
+      "message": formData.message
+    });
+
+    let config = {
+      method: 'post',
+      url: `${process.env.REACT_APP_API_URL}/api/contacts`,
+      headers: { 
+        'authorization': process.env.REACT_APP_API_HEADER, 
+        'Content-Type': 'application/json'
+      },
+      data: data
+    };
+
+    axios.request(config)
+      .then((response) => {
+        console.log(JSON.stringify(response.data));
+        setFormData(
+          {
+            name: '',
+            email: '',
+            message: ''
+          }
+        )
+      })
+      .catch((error) => {
+        console.log(error);
+        
+      });
   };
 
   return (
