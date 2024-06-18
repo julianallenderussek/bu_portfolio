@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Wireless Bluetooth Headphones",
+    "description": "High-quality wireless headphones with noise cancellation and long battery life.",
+    "price": 89.99,
+    "image_url": "https://www.bhphotovideo.com/images/images2500x2500/beats_by_dr_dre_mtu02ll_a_skyline_collection_studio3_wireless_1437189.jpg",
+    "category": "Audio",
+    "quantity": 10
+  },
+  {
+    "name": "4K Ultra HD Smart TV",
+    "description": "55-inch 4K Ultra HD Smart TV with HDR support and built-in streaming apps.",
+    "price": 499.99,
+    "image_url": "https://i5.walmartimages.com/asr/2aa59abd-3809-4cf5-9ebf-66365c38cb2e.1b3c37d9a592da238fd30c2100356ad7.jpeg",
+    "category": "Television",
+    "quantity": 32
+  },
+  {
+    "name": "Smartphone",
+    "description": "Latest model smartphone with a high-resolution camera and fast processor.",
+    "price": 799.99,
+    "image_url": "https://www.lifewire.com/thmb/x1EXDb9FxYRvibiS4qopzyKWZ84=/2048x1365/filters:fill(auto,1)/37476309642_0fba473317_o-5a906c34119fa80037fee510.jpg",
+    "category": "Mobile Phones",
+    "quantity": 83
+  },
+  {
+    "name": "Gaming Laptop",
+    "description": "Powerful gaming laptop with a high-refresh-rate display and dedicated graphics card.",
+    "price": 1299.99,
+    "image_url": "https://gameranx.com/wp-content/uploads/2017/11/81H6xeDBHNL._SL1500_.jpg",
+    "category": "Computers",
+    "quantity": 2
+  },
+  {
+    "name": "Smart Watch",
+    "description": "Fitness-focused smartwatch with heart rate monitoring and GPS tracking.",
+    "price": 199.99,
+    "image_url": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6280/6280405cv11d.jpg",
+    "category": "Wearables",
+    "quantity": 22
+  },
+  {
+    "name": "Bluetooth Speaker",
+    "description": "Portable Bluetooth speaker with rich sound and waterproof design.",
+    "price": 59.99,
+    "image_url": "https://i5.walmartimages.com/asr/52ff3b2a-29e1-4772-8bb2-0afe221f299c_1.c8cb9cea86ad3c723c2ed5110ed5120f.jpeg",
+    "category": "Audio",
+    "quantity": 12
+  },
+  {
+    "name": "Digital Camera",
+    "description": "Compact digital camera with 20MP resolution and 4K video recording.",
+    "price": 349.99,
+    "image_url": "https://tse4.mm.bing.net/th?id=OIP.3zI5tGmA-fPWeUBYtvl3ZQHaHa&pid=Api&P=0&h=180",
+    "category": "Cameras",
+    "quantity": 54
+  },
+  {
+    "name": "Tablet",
+    "description": "10-inch tablet with high-resolution display and expandable storage.",
+    "price": 299.99,
+    "image_url": "https://www.bhphotovideo.com/images/images2500x2500/samsung_gt_p5210gnyxar_10_1_galaxy_tablet_3_981935.jpg",
+    "category": "Tablets",
+    "quantity": 32
+  },
+  {
+    "name": "Wireless Charger",
+    "description": "Fast wireless charger compatible with a variety of devices.",
+    "price": 39.99,
+    "image_url": "https://i5.walmartimages.com/asr/d3eac7fd-22ba-474d-8c86-2441db11e1b1.f6713232f2513fbaaca8925d8812ecf9.jpeg",
+    "category": "Accessories",
+    "quantity": 56
+  },
+  {
+    "name": "Smart Home Assistant",
+    "description": "Voice-controlled smart home assistant with smart device integration.",
+    "price": 129.99,
+    "image_url": "https://ca.images.search.yahoo.com/images/view;_ylt=AwrgMJOwBmhm3lM007btFAx.;_ylu=c2VjA3NyBHNsawNpbWcEb2lkAzRkZTBjODkxZTVmMmZiNjg1NGIwOTVjMmNlMzFlMjYzBGdwb3MDNgRpdANiaW5n?back=https%3A%2F%2Fca.images.search.yahoo.com%2Fsearch%2Fimages%3Fp%3Dsmart%2Bhome%2Bassitant%26ei%3DUTF-8%26type%3DE210CA714G0%26fr%3Dmcafee%26fr2%3Dp%253As%252Cv%253Ai%252Cm%253Asb-top%26tab%3Dorganic%26ri%3D6&w=1600&h=800&imgurl=9to5google.com%2Fwp-content%2Fuploads%2Fsites%2F4%2F2017%2F04%2Fgoogle-home-picture.jpeg%3Fquality%3D82%26strip%3Dall&rurl=https%3A%2F%2F9to5google.com%2F2017%2F11%2F02%2Flist-google-home-assistant-smart-home-devices%2F&size=137.4KB&p=smart+home+assitant&oid=4de0c891e5f2fb6854b095c2ce31e263&fr2=p%3As%2Cv%3Ai%2Cm%3Asb-top&fr=mcafee&tt=Here%26%2339%3Bs+a+list+of+every+smart+home+device+that+works+with+Google+Home+and+Assistant+-+9to5Google&b=0&ni=57&no=6&ts=&tab=organic&sigr=UPcd0UzFRmkK&sigb=KK_nfI6RrYnk&sigi=X6J6BwbYXFKs&sigt=a0A.IJSHKRdY&.crumb=u205gPet7W4&fr=mcafee&fr2=p%3As%2Cv%3Ai%2Cm%3Asb-top&type=E210CA714G0",
+    "category": "Smart Home",
+    "quantity": 87
+  },
+  {
+    "name": "Action Camera",
+    "description": "Rugged action camera with 4K video recording and waterproof design.",
+    "price": 199.99,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71Hli+BbE5L.jpg",
+    "category": "Cameras",
+    "quantity": 103
+  },
+  {
+    "name": "E-Reader",
+    "description": "E-reader with a high-resolution display and adjustable backlight.",
+    "price": 129.99,
+    "image_url": "https://www.lifewire.com/thmb/KiHIGqNrWMGmqlANko3gajMiffo=/1000x1000/filters:fill(auto,1)/Kindle-Paperwhite-573b39d83df78c6bb08ed95a.jpg",
+    "category": "Tablets",
+    "quantity": 43
+  },
+  {
+    "name": "Drone",
+    "description": "Quadcopter drone with HD camera and easy-to-use controls.",
+    "price": 399.99,
+    "image_url": "https://cdn.futura-sciences.com/buildsv6/images/wide1920/9/e/7/9e73c416ee_131285_canonique-2562.jpg",
+    "category": "Drones",
+    "quantity": 21
+  },
+  {
+    "name": "External Hard Drive",
+    "description": "Portable external hard drive with 2TB storage capacity and fast data transfer.",
+    "price": 89.99,
+    "image_url": "https://i5.walmartimages.com/asr/d4d9939d-b2fa-43e4-a065-0683c1667ab5.c1608adadf10b1062426466c37a65f5c.jpeg",
+    "category": "Storage",
+    "quantity": 65
+  },
+  {
+    "name": "Gaming Console",
+    "description": "Next-gen gaming console with ultra-fast load times and immersive gameplay.",
+    "price": 499.99,
+    "image_url": "https://i5.walmartimages.com/asr/9e947e75-1ca3-4007-8a9d-8d7ab383d6ce_3.149f515544d3f950c91638c70125d817.jpeg",
+    "category": "Gaming",
+    "quantity": 87
+  }
+]
